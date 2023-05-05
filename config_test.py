@@ -1,0 +1,5 @@
+from config import *
+
+
+RAW_DATASET_START_DATETIME = "1 Aug, 2021"
+RAW_DATASET_END_DATETIME = "20 Aug, 2021"
